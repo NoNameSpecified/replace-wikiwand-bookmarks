@@ -2,10 +2,10 @@
 
 Little script to get rid of wikiwand links in *Firefox* bookmarks and replace them with real wikipedia links.
 
-Usage:
-    1. export your bookmarks ("backup" in the Manage Bookmarks tool)
-    2. edit the json filenames in top of the script, then run this script
-    3. import the new bookmarks file into firefox !
+Usage:  
+1. export your bookmarks ("backup" in the Manage Bookmarks tool)
+2. run the [script](./switch_wiki_bookmarks.py) after editing the json filenames in top of it
+3. import the new bookmarks file into firefox !
 
 Note:
     Wikiwand not only uses "normal" /en/articlename URLs, but also /simple/ etc.
