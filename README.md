@@ -1,6 +1,6 @@
 # replace-wikiwand-bookmarks
 
-Little script to get rid of wikiwand links in *Firefox* bookmarks and replace them with real wikipedia links.
+Little script to get rid of wikiwand links in *Firefox* bookmarks and replace them with **real wikipedia links**.
 
 Usage:  
 1. export your bookmarks ("backup" in the Manage Bookmarks tool)
